@@ -1,6 +1,4 @@
-# Churn-Prediction-by-Artificial-Neural-Network
-
-# 📊 Customer Churn Prediction using TensorFlow & Keras
+# 📊 Customer Churn Prediction using TensorFlow & Keras (ANN Model)
 
 ## 📝 Description
 
